@@ -1,0 +1,10 @@
+This Repo has just been started.
+
+The attempt is: to code along with all programs in "Automate the Boring Stuff with Python" by Al Sweigart...
+
+...BUT to write them in RUST!
+
+This might be the perfect exercise for me to figure out some of RUST's capabilities. And also could potentially provide a nice reference for those who already know a bit about programming but want to have a look how RUST looks and feels.
+
+Späters
+niilz
