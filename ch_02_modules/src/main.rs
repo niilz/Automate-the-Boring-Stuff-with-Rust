@@ -3,6 +3,10 @@ fn main() {
 
     // Example 1 (Random integer)
     // Import modules from standard library with "use"
+    // BUT here we needed an extern "crate" like a library.
+    // The crate get's specified with a version in the Cargo.toml under the [dependencies]
+    // It then get's downloaded on "cargo run" or "cargo build"
+    extern crate rand;
     use rand::Rng;
 
     // To be able to get a random number in a specific range,
