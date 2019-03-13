@@ -1,5 +1,5 @@
 [package]
-name = "04_modules"
+name = "ex01_functions"
 version = "0.1.0"
 authors = ["nilSinger <niilz@outlook.de>"]
 edition = "2018"

@@ -1,5 +1,5 @@
 [package]
-name = "01_conditions"
+name = "ex03_range"
 version = "0.1.0"
 authors = ["nilSinger <niilz@outlook.de>"]
 edition = "2018"
