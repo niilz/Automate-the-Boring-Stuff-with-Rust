@@ -1,5 +1,5 @@
 [package]
-name = "ch_02_loops"
+name = "01_conditions"
 version = "0.1.0"
 authors = ["nilSinger <niilz@outlook.de>"]
 edition = "2018"

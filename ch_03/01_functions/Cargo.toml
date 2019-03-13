@@ -1,7 +1,8 @@
 [package]
-name = "ch_02_range"
+name = "01_functions"
 version = "0.1.0"
 authors = ["nilSinger <niilz@outlook.de>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.6"

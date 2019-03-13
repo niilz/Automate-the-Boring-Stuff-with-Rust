@@ -1,5 +1,5 @@
 [package]
-name = "ch_03_functions"
+name = "04_modules"
 version = "0.1.0"
 authors = ["nilSinger <niilz@outlook.de>"]
 edition = "2018"
