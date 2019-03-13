@@ -1,1 +1,0 @@
-/Users/niilz/Documents/ProgrammingNH/Rust/AutomateTheBoringStuffWithRust/ch_02_loops/target/debug/ch_02_loops.dSYM: /Users/niilz/Documents/ProgrammingNH/Rust/AutomateTheBoringStuffWithRust/ch_02_loops/src/main.rs
