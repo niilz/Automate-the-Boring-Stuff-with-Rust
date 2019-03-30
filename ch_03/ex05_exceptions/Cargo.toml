@@ -1,5 +1,5 @@
 [package]
-name = "ex02_exceptions"
+name = "ex05_exceptions"
 version = "0.1.0"
 authors = ["nilSinger <niilz@outlook.de>"]
 edition = "2018"
