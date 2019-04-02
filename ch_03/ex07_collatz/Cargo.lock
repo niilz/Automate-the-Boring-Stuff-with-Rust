@@ -1,0 +1,4 @@
+[[package]]
+name = "ex07_collatz"
+version = "0.1.0"
+
