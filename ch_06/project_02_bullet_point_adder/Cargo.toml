@@ -1,0 +1,8 @@
+[package]
+name = "project_02_bullet_point_adder"
+version = "0.1.0"
+authors = ["nilSinger <niilz@outlook.de>"]
+edition = "2018"
+
+[dependencies]
+clipboard2 = "0.1.1"
